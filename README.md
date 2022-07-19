@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arayik</h1>
 <h3 align="center">Senior Full Stack Software Engineer from Armenia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arayik-yervandyan" alt="arayik-yervandyan" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arayik-yervandyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arayik-yervandyan" height="30" width="40" /></a>
